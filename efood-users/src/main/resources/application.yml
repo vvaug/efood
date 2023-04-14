@@ -1,0 +1,7 @@
+app:
+  config:
+    security:
+      jwt-secret: aNdRgUjXn2r5u8x/A?D(G+KbPeShVmYp
+      jwe-secret: 5u8x/A%D*G-KaPdS
+  name: efood-users
+

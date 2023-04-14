@@ -1,0 +1,7 @@
+server:
+  port: 8086
+
+clients:
+  store-data-service:
+    name: store-data-service-client
+    url: http://localhost:8087
